@@ -4,3 +4,4 @@
 [LAB-4] (https://github.com/Nishivardhan/aiml-lab/blob/main/Lab04-AIML.ipynb)  
 [LAB-5] (https://github.com/Nishivardhan/aiml-lab/blob/main/Lab05-AIML.ipynb)  
 [LAB-6] (https://github.com/Nishivardhan/aiml-lab/blob/main/Lab06-AIML.ipynb)  
+[LAB-7] (https://github.com/Nishivardhan/aiml-lab/blob/main/Lab_07.ipynb)  
